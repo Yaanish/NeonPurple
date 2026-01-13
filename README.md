@@ -58,7 +58,7 @@ A dark, cyberpunk-inspired theme for Notepad++ featuring deep purple backgrounds
 4. Go to **Settings** → **Style Configurator**
 5. Select "Purple Neon" from the theme dropdown
 
-## 🛠️ Supported Languages
+##  Supported Languages
 
 The theme includes custom styling for:
 
