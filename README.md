@@ -2,7 +2,7 @@
 
 A dark, cyberpunk-inspired theme for Notepad++ featuring deep purple backgrounds with vibrant neon purple and magenta accents. Perfect for late-night coding sessions and developers who love a futuristic aesthetic.
 
-## ✨ Features
+##  Features
 
 - **Eye-friendly dark purple background** - Reduces eye strain during extended coding sessions
 - **High-contrast neon accents** - Syntax elements pop with vibrant purple and magenta colors
@@ -10,7 +10,7 @@ A dark, cyberpunk-inspired theme for Notepad++ featuring deep purple backgrounds
 - **Consistent color scheme** - Unified look across all supported languages
 - **Customized UI elements** - Matching line numbers, margins, selection highlights, and more
 
-## 📸 Preview
+##  Preview
 
 
 <img width="1733" height="952" alt="notepad++_jVMaomd5Kx" src="https://github.com/user-attachments/assets/92b08a08-d166-4b93-a1eb-9b7ff6b2c5af" />
@@ -21,7 +21,7 @@ A dark, cyberpunk-inspired theme for Notepad++ featuring deep purple backgrounds
 
 
 
-## 🎨 Color Palette
+##  Color Palette
 
 | Element | Color | Hex Code |
 |---------|-------|----------|
@@ -36,7 +36,7 @@ A dark, cyberpunk-inspired theme for Notepad++ featuring deep purple backgrounds
 | Selection | Royal Purple | `#7B2CBF` |
 | Line Numbers | Medium Purple | `#9D4EDD` |
 
-## 🚀 Installation
+##  Installation
 
 ### Method 1: Direct Import (Recommended)
 
@@ -73,7 +73,7 @@ The theme includes custom styling for:
 - SQL
 - And many more through Notepad++'s default styling
 
-## 🎯 Customization
+##  Customization
 
 Want to tweak the colors? You can edit the `PurpleNeon.xml` file:
 
@@ -82,39 +82,39 @@ Want to tweak the colors? You can edit the `PurpleNeon.xml` file:
 3. Replace with your preferred hex colors
 4. Save and re-import into Notepad++
 
-## 📋 Requirements
+##  Requirements
 
 - Notepad++ version 7.0 or higher
 - Works on Windows (Notepad++ is Windows-only)
 
 
-## 📝 Version History
+##  Version History
 
 ### v1.0.0 (Initial Release)
 - Dark purple theme with neon accents
 - Support for major programming languages
 - Customized UI elements (line numbers, selection, current line)
 
-## 📄 License
+##  License
 
 This theme is released under the GPL v3 License. See the `LICENSE` file for details.
 
-## 👤 Author
+##  Author
 
 **[YANISH SAEED]**
 
 - GitHub: [@Yaanish](https://github.com/Yaanish)
 - Email: yanishmoshidora@gmail.com
 
-## 💜 Acknowledgments
+##  Acknowledgments
 
 - Inspired by cyberpunk aesthetics and neon-themed editors
 - Thanks to the Notepad++ team for creating an awesome editor
 
-## 🌟 Show Your Support
+##  Show Your Support
 
 If you like this theme, please give it a ⭐️ on GitHub!
 
 ---
 
-**Enjoy coding in style! 🚀💜**
+**Enjoy coding in style!**
