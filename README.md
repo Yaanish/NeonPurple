@@ -12,16 +12,14 @@ A dark, cyberpunk-inspired theme for Notepad++ featuring deep purple backgrounds
 
 ## 📸 Preview
 
-> **Note:** Add screenshots of your theme in action here. Consider showing examples with different programming languages.
 
-```
 <img width="1733" height="952" alt="notepad++_jVMaomd5Kx" src="https://github.com/user-attachments/assets/92b08a08-d166-4b93-a1eb-9b7ff6b2c5af" />
 
 <img width="752" height="427" alt="notepad++_alUqWvlYbg" src="https://github.com/user-attachments/assets/6b1967b8-d0ea-4c4e-9280-91b61fead759" />
 
 <img width="1727" height="828" alt="notepad++_E63p3uzdT5" src="https://github.com/user-attachments/assets/5598a33c-70ae-46ce-8a9e-67c7d861cf96" />
 
-```
+
 
 ## 🎨 Color Palette
 
